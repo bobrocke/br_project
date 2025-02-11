@@ -2,3 +2,5 @@
 /br_project/dispatch.py
 /br_project/wsgi.py
 /br_project/urls.py
+/myenv
+django_notes.txt

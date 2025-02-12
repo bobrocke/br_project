@@ -1,7 +1,0 @@
-Options +ExecCGI
-RewriteEngine On
-RewriteBase /
-RewriteRule ^(media/.*)$ - [L]
-RewriteRule ^(admin_media/.*)$ - [L]
-RewriteRule ^(br_project/dispatch\.wsgi/.*)$ - [L]
-RewriteRule ^(.*)$ br_project/br_project/dispatch.wsgi/$1 [QSA,PT,L]

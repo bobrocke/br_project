@@ -2,5 +2,8 @@
 /br_project/dispatch.py
 /br_project/wsgi.py
 /br_project/urls.py
+/br_project/__pycache__/
+/colors/__pycache__/
 /myenv
 django_notes.txt
+.htaccess
